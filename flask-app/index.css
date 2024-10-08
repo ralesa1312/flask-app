@@ -1,0 +1,11 @@
+#searchBar {
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 300px;
+}
+
+#itemList li {
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+}
